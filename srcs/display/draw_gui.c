@@ -27,7 +27,7 @@ void	print_menu_details(t_data *d)
 	mlx_putstr(d, 10, HEIGHT - GUI_HEIGHT - 10, \
 	"Press N to hide the object");
 	mlx_putstr(d, WIDTH / 2 - 70, HEIGHT - GUI_HEIGHT - 10, \
-	"Press M to toggle the menu");
+	"Press M to hide the menu");
 	mlx_putstr(d, WIDTH - 158, HEIGHT - GUI_HEIGHT - 10, \
 	"Press P to save the scene");
 }
