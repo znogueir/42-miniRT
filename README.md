@@ -24,6 +24,9 @@ Concept(s) learned :
 - 3d vectors manipulation and calculations (rotation, scaling, normalizing, cross and dot products, [Rodrigues' formula](https://en.wikipedia.org/wiki/Rodrigues%27_rotation_formula), ...)
 - phong model
 
+Resources :
+- https://physique.cmaisonneuve.qc.ca/svezina/nyc/note_nyc/NYC_CHAP_6_IMPRIMABLE_4.pdf
+
 ---
 ### Preview:
 <br>
@@ -67,8 +70,3 @@ white plane and spheres, 3 spots of each color channel.
 <br>
 a couple of more complicated scenes.
 <br>
-
-
-
-
-
