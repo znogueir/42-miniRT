@@ -27,6 +27,10 @@ Concept(s) learned :
 
 Resources :
 - https://physique.cmaisonneuve.qc.ca/svezina/nyc/note_nyc/NYC_CHAP_6_IMPRIMABLE_4.pdf
+<br>
+
+Credits : <br>
+ykuo, [yridgway](https://github.com/YoelRidgway)
 
 ---
 ### Preview:
