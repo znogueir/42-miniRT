@@ -3,7 +3,7 @@
 <br>
 
 Goal(s):
-- create a simple raytracer in C capable of rendering simple geometric objects, with the help of a basic graphics library.
+- create a modest raytracer in C capable of rendering simple geometric objects, with the help of a basic graphics library.
 <br>
 
 Features :
